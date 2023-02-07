@@ -1,0 +1,14 @@
+arsiv\entity\Musteri.class
+arsiv\dto\DosyaDto.class
+arsiv\SwaggerConfig.class
+arsiv\repo\DosyaRepository.class
+arsiv\entity\Kullanici.class
+arsiv\Main.class
+arsiv\request\MusteriRequest.class
+arsiv\controller\DosyaController.class
+arsiv\entity\Dosya.class
+arsiv\controller\MusteriController.class
+arsiv\repo\KullaniciRepository.class
+arsiv\request\DosyaRequest.class
+arsiv\repo\MusteriRepository.class
+arsiv\dto\MusteriDto.class
